@@ -1,4 +1,4 @@
-# mcp-squatguard-template
+# mcp-watcher
 
 This is a defensive registration. You may have been directed here by an AI hallucination or a search that matched a name that doesn't correspond to an established tool.
 

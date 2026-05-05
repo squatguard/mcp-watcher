@@ -1,11 +1,11 @@
 {
-  "name": "mcp-squatguard-template",
-  "version": "0.1.2",
+  "name": "mcp-watcher",
+  "version": "0.1.0",
   "main": "index.js",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/squatguard/mcp-squatguard-template.git"
+    "url": "git+https://github.com/squatguard/mcp-watcher.git"
   },
   "publishConfig": {
     "access": "public",
@@ -15,7 +15,7 @@
     "node": ">=20"
   },
   "bin": {
-    "mcp-squatguard-template": "build_node/index.js"
+    "mcp-watcher": "build_node/index.js"
   },
   "scripts": {
     "build": "tsc && node -e \"require('fs').chmodSync('build_node/index.js', '755')\""

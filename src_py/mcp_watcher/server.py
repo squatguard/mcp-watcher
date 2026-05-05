@@ -10,7 +10,7 @@ You probably want to check out [OWASP Top 10 for Large Language Model Applicatio
 """
 
 # Initialize FastMCP server
-mcp = FastMCP("mcp-squatguard-template")
+mcp = FastMCP("mcp-watcher")
 
 
 @mcp.tool()
